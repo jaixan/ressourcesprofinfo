@@ -4,7 +4,7 @@
 ## Veille technologique
 |Site|Description|  
 |--|--|  
-|[Refind](https://refind.com/etienne-1?invite=2b093b385d)|Service qui envoie 7 articles sélectionnés pour vous par courriel|  
+|[Refind](https://refind.com/etienne-1?invite=2b093b385d)|Service qui envoie 7 articles sélectionnés par jour pour vous par courriel|  
 |[Medium](https://medium.com/tag/technology)|Articles très intéressants sur la technologie|  
 
 
@@ -86,6 +86,12 @@
 |[Windows 10](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)|VM gratuites pour 90 jours en Windows 10|  
 |[]()||  
 
+## Références pour développeurs
+|Site|Description|  
+|--|--| 
+|[Oh Shit, Git!?!](https://ohshitgit.com)|Référence pour aider quand on fait une gaffe dans Git|  
+|[Oh my Git](https://ohmygit.org)|Jeu pour apprendre Git|    
+
 ## Autres outils
 |Site|Description|  
 |--|--| 
@@ -94,3 +100,4 @@
 |[Érudit](https://www.erudit.org/fr/)|Recherche d’articles scientifiques, thèses et mémoires.|  
 |[PDF to Excel](https://www.pdftoexcel.com/)|Convertir un PDF en Excel|  
 |[Sejda](https://www.sejda.com/pdf-editor)|Éditeur de PDF en ligne|  
+|[Etcher](https://www.balena.io/etcher/?ref=etcher_menu)|Outil multiplateforme pour flasher une clé USB ou une carte SD|
