@@ -66,6 +66,7 @@
 |[Photopea](https://www.photopea.com)|Éditeur d'images en ligne|  
 |[Slidesmedia](https://slidesmania.com)|Modèles de présentation Powerpoint et Google Slides|  
 |[Pixlr](https://pixlr.com/x/)|Éditeur d'images en ligne|  
+|[Removebg](remove.bg)|Enlever automatiquement les fonds de photos|
 
 
 ## Jeux de données
@@ -100,4 +101,13 @@
 |[Érudit](https://www.erudit.org/fr/)|Recherche d’articles scientifiques, thèses et mémoires.|  
 |[PDF to Excel](https://www.pdftoexcel.com/)|Convertir un PDF en Excel|  
 |[Sejda](https://www.sejda.com/pdf-editor)|Éditeur de PDF en ligne|  
-|[Etcher](https://www.balena.io/etcher/?ref=etcher_menu)|Outil multiplateforme pour flasher une clé USB ou une carte SD|
+|[Etcher](https://www.balena.io/etcher/?ref=etcher_menu)|Outil multiplateforme pour flasher une clé USB ou une carte SD|  
+
+
+## Humour informatique
+|Site|Description|
+|--|--|
+|[HTTP Cats](https://http.cat)|Toutes les erreurs HTTP avec des chats|  
+|[Lorembarnak](https://www.lorembarnak.com)|Lorem Ipsum avec des jurons québécois|  
+|[Bacon Ipsum](https://baconipsum.com/)|Lorem Ipsum avec des coupes de viande|  
+ 
