@@ -91,7 +91,8 @@
 |Site|Description|  
 |--|--| 
 |[Oh Shit, Git!?!](https://ohshitgit.com)|Référence pour aider quand on fait une gaffe dans Git|  
-|[Oh my Git](https://ohmygit.org)|Jeu pour apprendre Git|    
+|[Oh my Git](https://ohmygit.org)|Jeu pour apprendre Git|  
+|[Git Explorer](https://gitexplorer.com/)|Outil pour trouver les bonnes commandes GIT|    
 
 ## Autres outils
 |Site|Description|  
