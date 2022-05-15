@@ -66,7 +66,7 @@
 |[Photopea](https://www.photopea.com)|Éditeur d'images en ligne|  
 |[Slidesmedia](https://slidesmania.com)|Modèles de présentation Powerpoint et Google Slides|  
 |[Pixlr](https://pixlr.com/x/)|Éditeur d'images en ligne|  
-|[Removebg](remove.bg)|Enlever automatiquement les fonds de photos|
+|[Removebg](https://remove.bg)|Enlever automatiquement les fonds de photos|
 
 
 ## Jeux de données
