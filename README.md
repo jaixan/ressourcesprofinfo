@@ -44,7 +44,7 @@
 
 ## Cybersécurité - Reconnaissance passive
 |Site|Description|  
-|--|--| 
+|--|--|
 |[Registre des entreprise (Québec)](http://www.registreentreprises.gouv.qc.ca/fr/default.aspx)|Donne de l'information sur l'entreprise, incluant le nom du propriétaire et possiblement des adresses|  
 |[Cadastre du Québec](https://appli.mern.gouv.qc.ca/infolot/)|Consultation du cadastre du Québec|  
 |[CanLII](https://www.canlii.org/fr/)|Tous les documents des tribunaux canadiens|  
@@ -59,7 +59,7 @@
 
 ## Outils d'aide à la création de matériel
 |Site|Description|  
-|--|--| 
+|--|--|
 |[MkDocs](https://www.mkdocs.org)|Création de sites Web complets avec du MarkDown|  
 |[Canva](https://www.canva.com)|Outil de conception de matériel (présentations, vidéos, etc.)|  
 |[Diagrams.net](https://www.diagrams.net)|Pour faire des diagrammes|  
@@ -71,38 +71,53 @@
 
 ## Jeux de données
 |Site|Description|  
-|--|--| 
-|[Données Québec](https://www.donneesquebec.ca)|Jeux de données des instances gouvernementales du Québec| 
+|--|--|
+|[Données Québec](https://www.donneesquebec.ca)|Jeux de données des instances gouvernementales du Québec|
 
 ## Stage
 |Site|Description|  
-|--|--| 
-|[Odoo](https://www.odoo.com/fr_FR)|Outil gratuit de signature électronique| 
-|[PDF to PDF-A](https://www.pdftron.com/pdf-tools/pdfa-converter/)|Convertisseur de PDF vers PDF-A (Requis par l'administration des stages)| 
+|--|--|
+|[Odoo](https://www.odoo.com/fr_FR)|Outil gratuit de signature électronique|
+|[PDF to PDF-A](https://www.pdftron.com/pdf-tools/pdfa-converter/)|Convertisseur de PDF vers PDF-A (Requis par l'administration des stages)|
 |[Accueillez un stagiaire](https://pratiquesrh.com/fr/accueillez-un-stagiaire)|Le programme Accueillez un stagiaire vous propose une subvention salariale pour les étudiants de niveau postsecondaire|  
+|[Cnesst Sensibilisation jeunesse](https://www.cnesst.gouv.qc.ca/fr/campagnes-sensibilisation-promotion/poser-questions-ca-ne-fait-pas-mal?utm_campaign=CSPQ%7CCNESST%7CBrand%7CJeunesse%7CQ2%7C2022%7CFR/EN%7C%7C1016334%7C5698-IU-P201&utm_medium=Social&utm_source=LinkedIn&utm_content=1920x1080-fille-fr)|Cnesst Sensibilisation jeunesse|  
 
 ## Machines virtuelles
 |Site|Description|  
-|--|--| 
+|--|--|
 |[Windows 10](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)|VM gratuites pour 90 jours en Windows 10|  
 |[]()||  
 
 ## Références pour développeurs
 |Site|Description|  
-|--|--| 
+|--|--|
 |[Oh Shit, Git!?!](https://ohshitgit.com)|Référence pour aider quand on fait une gaffe dans Git|  
 |[Oh my Git](https://ohmygit.org)|Jeu pour apprendre Git|  
 |[Git Explorer](https://gitexplorer.com/)|Outil pour trouver les bonnes commandes GIT|    
 
 ## Autres outils
 |Site|Description|  
-|--|--| 
-|[Wolfram Alpha](https://www.wolframalpha.com)|Outil de recherche intelligent (comprend les mathématiques)| 
+|--|--|
+|[Wolfram Alpha](https://www.wolframalpha.com)|Outil de recherche intelligent (comprend les mathématiques)|
 |[Tineye](https://tineye.com)|Recherche inversée d'images|  
 |[Érudit](https://www.erudit.org/fr/)|Recherche d’articles scientifiques, thèses et mémoires.|  
 |[PDF to Excel](https://www.pdftoexcel.com/)|Convertir un PDF en Excel|  
 |[Sejda](https://www.sejda.com/pdf-editor)|Éditeur de PDF en ligne|  
 |[Etcher](https://www.balena.io/etcher/?ref=etcher_menu)|Outil multiplateforme pour flasher une clé USB ou une carte SD|  
+
+## Développement
+|Site|Description|  
+|--|--|
+|[Robohash](https://robohash.org)|Générateur d'images, utile en programmation pour avoir des images à afficher en Web|  
+|[Raccourcis VSCode - Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)|Liste des raccourcis claviers pour Visual Studio Code - Pour Mac|  
+|[Raccourcis VSCode - Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)|Liste des raccourcis claviers pour Visual Studio Code - Pour Windows|  
+
+## Programmation web
+|Site|Description|  
+|--|--|
+|[Complete CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)|Guide complet pour l'utilisation de grilles en CSS|  
+|[Complete CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)|Guide complet de tous les éléments CSS|  
+|[CSS Combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators)|Tous les combinateurs CSS|  
 
 
 ## Humour informatique
@@ -111,4 +126,3 @@
 |[HTTP Cats](https://http.cat)|Toutes les erreurs HTTP avec des chats|  
 |[Lorembarnak](https://www.lorembarnak.com)|Lorem Ipsum avec des jurons québécois|  
 |[Bacon Ipsum](https://baconipsum.com/)|Lorem Ipsum avec des coupes de viande|  
- 
